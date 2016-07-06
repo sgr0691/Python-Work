@@ -7,3 +7,6 @@ print("Languages:\nPython\nC\nJavascript")
 
 #The following example shows how you can use a one-line string to generate four lines of output:
 print("Languages:\n\tPython\n\tC\n\tJavascript")
+
+#======================
+#Stripping Whitespace
